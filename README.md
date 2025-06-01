@@ -1,5 +1,3 @@
-# Stock-Analysis-HSG
-
 # 📈 Stock Return Analysis in R
 
 This R script performs a detailed time series analysis of stock returns for two major companies — Apple Inc. (AAPL) and Microsoft Corp. (MSFT). The script includes return calculations, volatility estimation, visualization, and correlation analysis between the two stocks.
